@@ -31,7 +31,6 @@ yarn build
 
 ## Built With
 
-* [PeerJS](http://peerjs.com/) - WebRTC middleware used
 * [React](https://reactjs.org/) - View library
 * [Material-UI](http://www.material-ui.com/) - Some UI components
 
