@@ -1,4 +1,4 @@
-﻿# FP2P
+﻿# Crypto C
  
 * [Website](https://www.ecoins.gq/)
 to track bit and alt coins. It loads almost 2000 coins info so give it a little time
